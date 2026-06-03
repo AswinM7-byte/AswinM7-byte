@@ -13,7 +13,7 @@ class AswinM:
         self.degree       = "B.E. Computer Science & Engineering (2023–2027)"
         self.college      = "Stella Mary's College of Engineering, Aruthenganvilai"
         self.email        = "aswinmsd777@gmail.com"
-        self.github       = "AswinByte-7"
+        self.github       = "AswinM7-byte"
         self.linkedin     = "Aswin M"
         self.phone        = "+91 8220789344"
 
@@ -60,27 +60,27 @@ Tools & DevOps
 ---
 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/AswinByte-7">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=AswinByte-7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/AswinM7-byte">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=AswinM7-byte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/AswinByte-7">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinByte-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/AswinM7-byte">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinM7-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 ---
 🔥 Streak Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AswinByte-7&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=AswinM7-byte&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 ---
 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinByte-7&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinM7-byte&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 ---
 🏆 Trophy Wall
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AswinByte-7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AswinM7-byte&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 ---
 💼 Work Experience
